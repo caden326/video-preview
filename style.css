@@ -1,0 +1,9 @@
+body{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+}
+video{
+    width: 500px;
+    height: 400px;
+}
